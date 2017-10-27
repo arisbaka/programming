@@ -1,5 +1,5 @@
 <?php
 
-for ($number = 0; $number <= 10; $number++) {
+for ($number = 1; $number <= 10; $number++) {
     echo "{$number}<br>";
 }
